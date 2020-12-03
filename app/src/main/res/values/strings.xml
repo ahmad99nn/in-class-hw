@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hw-android</string>
+    <string name="showing_list_of_students">SHOWING LIST OF STUDENTS</string>
+    <string name="refresh">Refresh</string>
+</resources>
